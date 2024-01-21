@@ -1,0 +1,565 @@
+@import url(reset.css);
+.clear{
+clear:both;
+}
+#wrapper{
+width:1024px;
+height:1400px;
+margin: 0 auto;
+outline:1px solid #ccc;
+}
+#head{
+color:#9B9B9B;
+font:13px Arial;
+width:1024px;
+height:378px;
+background-image:url(../images/top.jpg);
+}
+#top{
+margin-top:28px;
+margin-left:42px;
+width:982px;
+height:311px;
+outline:0px solid #ccc;
+}
+#jasmine{
+width:291px;
+height:311px;
+background-image:url(../images/jasmine.jpg);
+float:left;
+}
+/*---------------------------------------------Meditation Girl*/
+#meditationGirl{
+width:643px;
+height:311px;
+outline:1px solid #ccc;
+float:left;
+}
+
+#k1{
+width:91px;
+height:90px;
+display:block;
+cursor:default;
+background-image:url(../images/meditationGirl/1.jpg);
+float:left;
+}
+#k1:hover{
+width:91px;
+height:90px;
+background-image:url(../images/meditationGirl/1-1.jpg);
+}
+#k2,#k3,#k4,#k5,#k6{
+width:99px;
+height:90px;
+display:block;
+cursor:default;
+float:left;
+}
+#k2:hover,#k3:hover,#k4:hover,#k5:hover,#k6:hover{
+width:99px;
+height:90px;
+display:block;
+cursor:default;
+float:left;
+}
+#k2{background-image:url(../images/meditationGirl/2.jpg);}
+#k2:hover{background-image:url(../images/meditationGirl/2-1.jpg);}
+#k3{background-image:url(../images/meditationGirl/3.jpg);}
+#k3:hover{background-image:url(../images/meditationGirl/3-1.jpg);}
+#k4{background-image:url(../images/meditationGirl/4.jpg);}
+#k4:hover{background-image:url(../images/meditationGirl/4-1.jpg);}
+#k5{background-image:url(../images/meditationGirl/5.jpg);}
+#k5:hover{background-image:url(../images/meditationGirl/5-1.jpg);}
+#k6{background-image:url(../images/meditationGirl/6.jpg);}
+#k6:hover{background-image:url(../images/meditationGirl/6-1.jpg);}
+
+#k7{
+width:57px;
+height:90px;
+display:block;
+cursor:default;
+background-image:url(../images/meditationGirl/7.jpg);
+float:left;
+}
+#k7:hover{
+width:57px;
+height:90px;
+background-image:url(../images/meditationGirl/7-1.jpg);
+}
+#k8{
+width:91px;
+height:100px;
+display:block;
+cursor:default;
+background-image:url(../images/meditationGirl/8.jpg);
+float:left;
+}
+#k8:hover{
+width:91px;
+height:100px;
+background-image:url(../images/meditationGirl/8-1.jpg);
+}
+#k9,#k10,#k11,#k12,#k13{
+width:99px;
+height:100px;
+display:block;
+cursor:default;
+float:left;
+}
+#k9{background-image:url(../images/meditationGirl/9.jpg);}
+#k9:hover,#k10:hover,#k11:hover,#k12:hover,#k13:hover{
+width:99px;
+height:100px;
+}
+#k10{background-image:url(../images/meditationGirl/10.jpg);}
+#k10:hover{background-image:url(../images/meditationGirl/10-1.jpg);}
+#k11{background-image:url(../images/meditationGirl/11.jpg);}
+#k11:hover{background-image:url(../images/meditationGirl/11-1.jpg);}
+#k12{background-image:url(../images/meditationGirl/12.jpg);}
+#k12:hover{background-image:url(../images/meditationGirl/12-1.jpg);}
+#k13{background-image:url(../images/meditationGirl/13.jpg);}
+#k13:hover{background-image:url(../images/meditationGirl/13-1.jpg);}
+#k14{
+background-image:url(../images/meditationGirl/14.jpg);
+width:57px;
+height:100px;
+display:block;
+cursor:default;
+float:left;
+}
+#k14:hover{
+background-image:url(../images/meditationGirl/14-1.jpg);
+width:57px;
+height:100px;
+}
+#k15{
+background-image:url(../images/meditationGirl/15.jpg);
+width:91px;
+height:98px;
+display:block;
+cursor:default;
+float:left;
+}
+#k15:hover{
+background-image:url(../images/meditationGirl/15-1.jpg);
+width:91px;
+height:98px;
+}
+#k16,#k17,#k18,#k19,#k20{
+width:99px;
+height:98px;
+display:block;
+cursor:default;
+float:left;
+}
+#k16:hover,#k17:hover,#k18:hover,#k19:hover,#k20:hover{
+width:99px;
+height:98px;
+}
+#k16{background-image:url(../images/meditationGirl/16.jpg);}
+#k16:hover{background-image:url(../images/meditationGirl/16-1.jpg);}
+#k17{background-image:url(../images/meditationGirl/17.jpg);}
+#k17:hover{background-image:url(../images/meditationGirl/17-1.jpg);}
+#k18{background-image:url(../images/meditationGirl/18.jpg);}
+#k18:hover{background-image:url(../images/meditationGirl/18-1.jpg);}
+#k19{background-image:url(../images/meditationGirl/19.jpg);}
+#k19:hover{background-image:url(../images/meditationGirl/19-1.jpg);}
+#k20{background-image:url(../images/meditationGirl/20.jpg);}
+#k20:hover{background-image:url(../images/meditationGirl/20-1.jpg);}
+#k21{
+background-image:url(../images/meditationGirl/21.jpg);
+width:57px;
+height:98px;
+display:block;
+cursor:default;
+float:left;
+}
+#k21:hover{
+background-image:url(../images/meditationGirl/21-1.jpg);
+width:57px;
+height:98px;
+}
+#k22{
+background-image:url(../images/meditationGirl/22.jpg);
+width:91px;
+height:23px;
+display:block;
+cursor:default;
+float:left;
+}
+#k22:hover{
+background-image:url(../images/meditationGirl/22-1.jpg);
+width:91px;
+height:23px;
+}
+
+
+
+
+
+
+#k23,#k24,#k25,#k26,#k27{
+width:99px;
+height:23px;
+display:block;
+cursor:default;
+float:left;
+}
+#k23:hover,#k24:hover,#k25:hover,#k26:hover,#k27:hover{
+width:99px;
+height:23px;
+}
+#k23{background-image:url(../images/meditationGirl/23.jpg);}
+#k23:hover{background-image:url(../images/meditationGirl/23-1.jpg);}
+#k24{background-image:url(../images/meditationGirl/24.jpg);}
+#k24:hover{background-image:url(../images/meditationGirl/24-1.jpg);}
+#k25{background-image:url(../images/meditationGirl/25.jpg);}
+#k25:hover{background-image:url(../images/meditationGirl/25-1.jpg);}
+#k26{background-image:url(../images/meditationGirl/26.jpg);}
+#k26:hover{background-image:url(../images/meditationGirl/26-1.jpg);}
+#k27{background-image:url(../images/meditationGirl/27.jpg);}
+#k27:hover{background-image:url(../images/meditationGirl/27-1.jpg);}
+#k28{
+background-image:url(../images/meditationGirl/28.jpg);
+width:57px;
+height:23px;
+display:block;
+cursor:default;
+float:left;
+}
+#k28:hover{
+background-image:url(../images/meditationGirl/28-1.jpg);
+width:57px;
+height:23px;
+}
+/*-----------------------------------------end Meditation Girl*/
+#top2{
+width:1024px;
+height:28px;
+background-image:url(../images/top2.jpg);
+}
+#topMenu{
+padding-top:23px;
+padding-left:70px;
+height:16px;
+}
+#head a:link{
+color:#9B9B9B;
+font:13px Arial;
+text-decoration:none;
+}
+#head a:hover{
+color:#FFF;
+font:13px Arial;
+}
+#head a:active{
+color:#9B9B9B;
+font:13px Arial;
+}
+#head a:visited{
+color:#9B9B9B;
+font:13px Arial;
+}
+#head span{
+margin-left:23px;
+margin-right:23px;
+}
+#leftMenu{
+width:281px;
+height:920px;
+float:left;
+background-image:url(../images/menuBG.png);
+background-repeat:no-repeat;
+}
+#content{
+width:743px;
+height:920px;
+float:left;
+}
+#menu{
+width:201px;
+height:632px;
+margin-left:60px;
+margin-top:17px;
+}
+#menu1,#menu2,#menu3,#menu4,#menu5,#menu6,#menu7,#menu8,#menu9,#menu10,#menu11,#menu12,#menu13{
+width:182px;
+height:30px;
+margin-bottom:4px;
+display:block;
+text-decoration:none;
+font:14px Times New Roman;
+color:#191919;
+padding-top:14px;
+padding-left:19px;
+}
+#menu1{background-image:url(../images/menu1.png);}
+#menu2{background-image:url(../images/menu2.png);}
+#menu3{background-image:url(../images/menu3.png);}
+#menu4{background-image:url(../images/menu4.png);}
+#menu5{background-image:url(../images/menu5.png);}
+#menu6{background-image:url(../images/menu6.png);}
+#menu7{background-image:url(../images/menu7.png);}
+#menu8{background-image:url(../images/menu8.png);}
+#menu9{background-image:url(../images/menu9.png);}
+#menu10{background-image:url(../images/menu10.png);}
+#menu11{background-image:url(../images/menu11.png);}
+#menu12{background-image:url(../images/menu12.png);}
+#menu13{background-image:url(../images/menu13.png);}
+
+#menu a:hover {
+width:182px;
+height:28px;
+background-image:url(../images/menuGreen.png);
+text-decoration:none;
+font:14px Times New Roman;
+color:#FFF;
+height:30px;
+padding-top:14px;
+padding-left:19px;
+}
+
+#suspendisse{
+margin-left:60px;
+margin-top:20px;
+width:182px;
+color:#A7C024;
+font:16px Times New Roman;
+}
+#morbi{
+margin-left:60px;
+margin-top:26px;
+width:182px;
+color:#191919;
+font:16px Times New Roman;
+}
+#content{
+width:743px;
+}
+#left{
+width:286px;
+height:560px;
+float:left;
+margin:7px 0 27px 30px;
+}
+#right{
+width:286px;
+height:560px;
+float:left;
+margin:7px 0 27px 27px;
+}
+#rightBG{
+width:114px;
+height:567px;
+float:left;
+background-image:url(../images/rightBG.png);
+background-repeat:no-repeat;
+}
+#girl1{
+width:286px;
+height:155px;
+background-image:url(../images/girl1.png);
+margin-bottom:23px;
+}
+#left h2, #right h2{
+color:#191919;
+font:27px Arial;
+margin-left:11px;
+margin-bottom:9px;
+}
+#left p, #right p{
+margin-left:11px;
+margin-right:11px;
+color:#191919;
+font:14px Times New Roman;
+}
+.readMore{
+margin-top:22px;
+margin-left:11px;
+padding-left:12px;
+padding-top:5px;
+display:block;
+width:88px;
+height:26px;
+background-image:url(../images/read-more.png);
+text-decoration:none;
+color:#FFF;
+font:14px Times New Roman;
+}
+.readMore:hover{
+margin-top:22px;
+margin-left:11px;
+padding-left:12px;
+padding-top:5px;
+display:block;
+width:88px;
+height:26px;
+background-image:url(../images/read-more.png);
+text-decoration:none;
+color:#191919;
+font:14px Times New Roman;
+}
+#girl2{
+width:286px;
+height:155px;
+background-image:url(../images/girl2.png);
+margin-bottom:23px;
+}
+#content h1{
+margin-top:23px;
+margin-left:48px;
+margin-bottom:30px;
+color:#191919;
+font:24px Arial;
+}
+.block{
+margin-left:41px;
+width:258px;
+float:left;
+}
+.block a{
+color:#191919;
+font:bold 14px Times New Roman;
+text-decoration:none;
+}
+.block a:hover{
+color:#191919;
+font:bold 14px Times New Roman;
+text-decoration:underline;
+}
+.block p{
+margin-top:3px;
+color:#191919;
+font:14px Times New Roman;
+}
+.block .readMoreBlack{
+margin-top:22px;
+margin-left:11px;
+padding-left:12px;
+padding-top:5px;
+display:block;
+width:88px;
+height:26px;
+background-image:url(../images/read-moreBlack.png);
+text-decoration:none;
+color:#FFF;
+font:14px Times New Roman;
+}
+.block .readMoreBlack:hover{
+margin-top:22px;
+margin-left:11px;
+padding-left:12px;
+padding-top:5px;
+display:block;
+width:88px;
+height:26px;
+background-image:url(../images/read-moreBlack.png);
+text-decoration:none;
+color:#75CF35;
+font:14px Times New Roman;
+}
+
+#klen{
+width:281px;
+height:54px;
+background-image:url(../images/klen.png);
+float:left;
+padding-top:19px;
+}
+#klen span{
+color:#FDFDFD;
+font:14px Times New Roman;
+margin-left:83px;
+}
+#klen a{
+margin-left:1px;
+color:#A7C024;
+font:14px Times New Roman;
+}
+#klen a:hover{
+color:#A7C024;
+font:14px Times New Roman;
+text-decoration:none;
+}
+
+#bottom{
+width:743px;
+height:73px;
+background-image:url(../images/bottom.png);
+float:left;
+}
+/* Contact */
+#content #services {
+margin-bottom:9px;
+}
+#morbiP{
+margin-left:41px;
+margin-bottom:35px;
+}
+#form{
+width:567px;
+height:457px;
+color:#191919;
+font:14px Times New Roman;
+margin-left:55px;
+}
+#form label{
+display:block;
+}
+#form span{
+vertical-align:middle;
+margin-right:65px;
+}
+
+#name,#email,#subject{
+width:355px;
+height:47px;
+border:1px solid #C7C7C7;
+background-color:#F3F2F3;
+margin-bottom:3px;
+color:#A6A6A6;
+font:30px Times New Roman;
+}
+#name{margin-left:31px;}
+#email{margin-left:33px;}
+#subject{margin-left:22px;}
+
+#description{
+width:355px;
+height:273px;
+border:1px solid #C7C7C7;
+background-color:#F3F2F3;
+vertical-align:top;
+color:#A6A6A6;
+font:30px Times New Roman;
+}
+
+#descS{
+margin-top:21px;
+float:left;
+}
+#descS{
+float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
